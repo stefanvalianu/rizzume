@@ -1,4 +1,4 @@
-module github.com/stefva/rizzume
+module github.com/stefanvalianu/rizzume
 
 go 1.25.8
 

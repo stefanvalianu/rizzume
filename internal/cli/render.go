@@ -7,7 +7,7 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/stefva/rizzume/internal/render"
+	"github.com/stefanvalianu/rizzume/internal/render"
 )
 
 var renderCmd = &cobra.Command{

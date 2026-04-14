@@ -6,7 +6,7 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/stefva/rizzume/internal/validate"
+	"github.com/stefanvalianu/rizzume/internal/validate"
 )
 
 var validateCmd = &cobra.Command{
@@ -16,7 +16,7 @@ var validateCmd = &cobra.Command{
 }
 
 var (
-	validatePDF          string
+	validatePDF           string
 	validateAllowOverflow bool
 )
 

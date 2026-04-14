@@ -5,8 +5,8 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/stefva/rizzume/internal/render"
-	"github.com/stefva/rizzume/internal/validate"
+	"github.com/stefanvalianu/rizzume/internal/render"
+	"github.com/stefanvalianu/rizzume/internal/validate"
 )
 
 var buildCmd = &cobra.Command{

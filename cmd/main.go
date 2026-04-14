@@ -1,6 +1,6 @@
 package main
 
-import "github.com/stefva/rizzume/internal/cli"
+import "github.com/stefanvalianu/rizzume/internal/cli"
 
 func main() {
 	cli.Execute()

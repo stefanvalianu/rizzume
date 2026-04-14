@@ -7,16 +7,16 @@ import (
 	"os/exec"
 	"path/filepath"
 
-	"github.com/stefva/rizzume/internal/config"
-	"github.com/stefva/rizzume/internal/content"
+	"github.com/stefanvalianu/rizzume/internal/config"
+	"github.com/stefanvalianu/rizzume/internal/content"
 )
 
 type Opts struct {
-	ContentPath  string
-	ThemePath    string
-	TemplatePath string
-	OutPath      string
-	RootDir      string
+	ContentPath   string
+	ThemePath     string
+	TemplatePath  string
+	OutPath       string
+	RootDir       string
 	ColorOverride string
 }
 
