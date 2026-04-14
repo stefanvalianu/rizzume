@@ -1,0 +1,89 @@
+basics:
+  name: Your Name
+  email: you@email.com
+  phone: "+1 123 456 7890"
+  location: "WA, USA"
+  linkedin: linkedin.com/yourname
+  github: github.com/yourname
+  website: yourname.com
+
+summary:
+  text: >
+    Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque
+    sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor.
+    Pulvinar vivamus fringilla lacus nec metus bibendum egestas.
+
+skills:
+  groups:
+    - name: Languages
+      items: "C#, TypeScript, HTML/CSS, Python, Rust"
+    - name: Frameworks
+      items: ".NET, ASP.NET Core, React, GraphQL, Zustand, Vite, MSAL, gRPC/Protobuf, SignalR"
+    - name: Telemetry
+      items: "Prometheus, Grafana (& Alloy), Kusto"
+    - name: Data
+      items: "Azure CosmosDb / Blob Storage, MongoDb, PostgreSQL, SQLite, Redis, Dexie.js"
+    - name: Infra
+      items: "Azure, Git, Docker, Kubernetes, Flux, Helm, ARM, GitHub & ADO Administration"
+    - name: AI
+      items: "Azure OpenAI Service, Claude Code, Codex, GitHub Copilot, Agents SDK"
+
+experience:
+  - company: Some Company
+    url: "https://somecompany.com"
+    location: "WA, USA"
+    start: "Date 20XX"
+    end: Present
+    roles:
+      - title: Some Title
+        bullets:
+          - "Lorem ipsum dolor sit amet consectetur adipiscing elit"
+          - "Tempus leo eu aenean sed diam urna tempor"
+
+  - company: Other Company
+    url: "https://othercompany.com"
+    location: "WA, USA"
+    start: "Date 20XX"
+    end: "Date 20XX"
+    roles:
+      - title: Principal Title
+        team: Team 6
+        start: "Date 20XX"
+        end: "Date 20XX"
+        bullets:
+          - "Lorem ipsum dolor sit amet consectetur adipiscing elit"
+          - "Tempus leo eu aenean sed diam urna tempor"
+
+      - title: Senior Title 2
+        team: Team 5
+        start: "Date 20XX"
+        end: "Date 20XX"
+        bullets:
+          - "Lorem ipsum dolor sit amet consectetur adipiscing elit"
+          - "Tempus leo eu aenean sed diam urna tempor"
+
+      - title: Senior Title 1
+        team: Team 4
+        start: "Date 20XX"
+        end: "Date 20XX"
+
+      - title: Mid Title 1
+        team: Team 3
+        start: "Date 20XX"
+        end: "Date 20XX"
+
+      - title: Initial Title 2
+        team: Team 2
+        start: "Date 20XX"
+        end: "Date 20XX"
+
+      - title: Initial Title
+        team: Team 1
+        start: "Date 20XX"
+        end: "Date 20XX"
+
+education:
+  - degree: Bachelor of Sampleology
+    school: Sample University
+    location: "MI, USA"
+    year: "20XX"
