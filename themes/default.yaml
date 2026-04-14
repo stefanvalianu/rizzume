@@ -1,0 +1,26 @@
+page:
+  width: "8.5in"
+  height: "11in"
+  margin_x: "0.45in"
+  margin_y: "0.35in"
+
+typography:
+  font_body: "Noto Sans"
+  font_heading: "Noto Sans"
+  font_size_base: "10pt"
+  font_size_name: "22pt"
+  font_size_section: "11.5pt"
+  font_size_small: "9pt"
+  line_height: 1.15
+
+colors:
+  text: "#222222"
+  muted: "#555555"
+  accent: "#3D8A8F"
+
+spacing:
+  section_gap: "5pt"
+  item_gap: "3pt"
+  bullet_gap: "1.5pt"
+  header_gap: "2.5pt"
+  skills_label_width: "85pt"
